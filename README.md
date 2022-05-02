@@ -1,3 +1,2 @@
 # calculator
-Advanced mathematical calculator in C
-first project I uploaded to github 
+Advanced mathematical calculator in C. first project I uploaded to github 
