@@ -25,3 +25,6 @@ This is an advanced mathematical calculator in C which is able to compute result
 - Supports negative numbers
 - Supports parenthesis
 - Computes result very quickly
+
+### Images
+![Capture](https://user-images.githubusercontent.com/97055625/168841224-90fba1c3-c31f-4520-8d77-5e8457b27749.PNG)
