@@ -5,7 +5,7 @@
 This is an advanced mathematical calculator in C which is able to compute results for mathematical expressions
 
 ### How it Works
-- The program takes an input string and throws it through a lexer
+- The program **takes** an input string and throws it through a lexer
   - The lexer is responsible for finding the individual tokens in a string
 - The program passes tokens to the parser
   - The parser is responsible for turning a token array into an abstract syntax tree
