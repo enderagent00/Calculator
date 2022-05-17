@@ -27,6 +27,4 @@ This is an advanced mathematical calculator in C which is able to compute result
 - Computes result very quickly
 
 ### Images
-
-Very large and complex expression
 ![Capture](https://user-images.githubusercontent.com/97055625/168841224-90fba1c3-c31f-4520-8d77-5e8457b27749.PNG)
