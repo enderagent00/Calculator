@@ -8,4 +8,4 @@ This is an advanced mathematical calculator in C which is able to compute result
 - Supports floating point numbers
 - Supports negative numbers
 - Supports parenthesis
-- Very fast 
+- Is very fast
