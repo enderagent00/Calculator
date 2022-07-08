@@ -32,7 +32,7 @@ static AstNode* InitNumberNode(Token* token) {
 }
 
 static AstNode* InitUnaryNode(Token* token, int sign) {
-	AstNode* node = calloc(1, sizeof(UnaryNode));
+	AstNode* node = calloc(1, sizeof(AstNode));
 	node->Option.Number = calloc(1, sizeof(NumberNode));
 	node->Option.UnaryNumber->Token = token;
 	node->Option.UnaryNumber->Sign = sign;
